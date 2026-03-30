@@ -155,7 +155,7 @@ Capitalize on creating stratetegic discounts to drive more sales and encourage g
 ## Final Remark
 This project forced me to figure out how to clean data, use Excel Text Functions, pivot tables, and, incorpotrating Power Point Skills to create a wireframe for my Excel Dashboard. 
 
-[Open Excel Sheet](./Data%20Excel_jumia(AutoRecovered).xlsx)
+[Open Excel Sheet](https://github.com/iganabrian/Excel-Jumia-Sales-Analysis/blob/main/Data%20Excel_jumia.xlsx)
 
 
 
